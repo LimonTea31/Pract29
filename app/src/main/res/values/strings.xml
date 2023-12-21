@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pract29</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Notes">Календарь</string>
+</resources>
